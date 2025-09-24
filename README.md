@@ -7,5 +7,6 @@ Just include argmage.h and argmage.cpp in your project.
 ```cpp
 #include "argmage.h"
 ```
+`g++ main.cpp argmage.cpp -o executable_name`
 
 WIP but functional.
